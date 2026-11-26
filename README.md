@@ -131,4 +131,4 @@ The template is intended as a starting point for projects that need simple authe
 You can extend it with additional pages, roles, authorization policies and application-specific functionality.
 
 ## License
-See the LICENSE file for license information.
+See the [LICENSE file](https://github.com/hartmannronnie/Blazor.SingleUserAuth?tab=MIT-1-ov-file) for license information.
