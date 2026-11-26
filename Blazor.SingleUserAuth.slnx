@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Blazor.SingleUserAuth/Blazor.SingleUserAuth.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+</Solution>
